@@ -1,0 +1,14 @@
+/Users/alexvanalstyne/Desktop/userfiles/MIS321/classwork/lesson14/bin/Debug/net8.0/lesson14
+/Users/alexvanalstyne/Desktop/userfiles/MIS321/classwork/lesson14/bin/Debug/net8.0/lesson14.deps.json
+/Users/alexvanalstyne/Desktop/userfiles/MIS321/classwork/lesson14/bin/Debug/net8.0/lesson14.runtimeconfig.json
+/Users/alexvanalstyne/Desktop/userfiles/MIS321/classwork/lesson14/bin/Debug/net8.0/lesson14.dll
+/Users/alexvanalstyne/Desktop/userfiles/MIS321/classwork/lesson14/bin/Debug/net8.0/lesson14.pdb
+/Users/alexvanalstyne/Desktop/userfiles/MIS321/classwork/lesson14/obj/Debug/net8.0/lesson14.GeneratedMSBuildEditorConfig.editorconfig
+/Users/alexvanalstyne/Desktop/userfiles/MIS321/classwork/lesson14/obj/Debug/net8.0/lesson14.AssemblyInfoInputs.cache
+/Users/alexvanalstyne/Desktop/userfiles/MIS321/classwork/lesson14/obj/Debug/net8.0/lesson14.AssemblyInfo.cs
+/Users/alexvanalstyne/Desktop/userfiles/MIS321/classwork/lesson14/obj/Debug/net8.0/lesson14.csproj.CoreCompileInputs.cache
+/Users/alexvanalstyne/Desktop/userfiles/MIS321/classwork/lesson14/obj/Debug/net8.0/lesson14.dll
+/Users/alexvanalstyne/Desktop/userfiles/MIS321/classwork/lesson14/obj/Debug/net8.0/refint/lesson14.dll
+/Users/alexvanalstyne/Desktop/userfiles/MIS321/classwork/lesson14/obj/Debug/net8.0/lesson14.pdb
+/Users/alexvanalstyne/Desktop/userfiles/MIS321/classwork/lesson14/obj/Debug/net8.0/lesson14.genruntimeconfig.cache
+/Users/alexvanalstyne/Desktop/userfiles/MIS321/classwork/lesson14/obj/Debug/net8.0/ref/lesson14.dll
